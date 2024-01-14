@@ -2,18 +2,18 @@
 
 Sou estudante de técnico em informática no Senac e estou sempre buscando aprender mais sobre programação. Tenho experiência em projetos utilizando Angular, Ionic, PHP e a tríade da programação (JavaScript, CSS e HTML).
 
-
+<!--
 ## 🚀 Projetos Destacados
 
 ### [Nome do Projeto] - [Link para o Projeto/GitHub]
 - [Breve descrição do projeto e suas principais características.]
 
 ### [Outro Projeto] - [Link para o Projeto/GitHub]
-- [Outro projeto relevante com uma breve descrição.]
+- [Outro projeto relevante com uma breve descrição.] -->
 
 ## 🌱 Atualmente Estou Aprendendo
 
-- Estou aprimorando meu conhecimento em [Tecnologias ou habilidades específicas].
+- Estou dedicando meu tempo ao estudo e aprimoramento em linguagens de programação, frameworks e IDEs que estão em alta no mercado. A busca por conhecimento inclui JavaScript, React.js, Node.js, TypeScript, Docker e VSCode, visando sempre me manter atualizado e alinhado com as demandas e tendências da indústria.
 
 ## 👨‍💻 Habilidades
 
@@ -42,7 +42,7 @@ Sou estudante de técnico em informática no Senac e estou sempre buscando apren
 
 ## 😄 Curiosidades
 
-- 💻 Meu primeiro mergulho no 🌎 da programação aconteceu ao desenvolver bots para o Discord, marcando um ponto inicial significativo em minha trajetória. Este desafio inicial não apenas consolidou meu amor pelo código, mas também despertou meu interesse em criar soluções inovadoras.
+- 💻 Meu primeiro mergulho no mundo da programação aconteceu ao fazer a manutenção de bots para o Discord, marcando um ponto inicial significativo em minha trajetória. Este desafio inicial não apenas consolidou meu amor pelo código, mas também despertou meu interesse em criar soluções inovadoras.
 
 ---
 
