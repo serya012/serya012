@@ -21,7 +21,6 @@ Sou estudante de técnico em informática no Senac e estou sempre buscando apren
 - **Tecnologias Web:** Angular, Ionic, HTML, CSS
 - **Banco de Dados:** MySQL, Firebase
 - **Ambientes de Desenvolvimento:** NetBeans, VSCode, Eclipse
-- **Outras Habilidades:** Desenvolvimento de Bots para Discord, Tríade da Programação (JavaScript, CSS, HTML), Exploração e Solução de Desafios Técnicos.
 
 ## 📊 Estatísticas do GitHub
 
