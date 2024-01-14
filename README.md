@@ -1,4 +1,4 @@
-# 🌎 Olá, Mundo! Me chamo Tarcísio Ayres!
+# 🌎 Olá, Mundo!
 
 Sou estudante de técnico em informática no Senac e estou sempre buscando aprender mais sobre programação. Tenho experiência em projetos utilizando Angular, Ionic, PHP e a tríade da programação (JavaScript, CSS e HTML).
 
