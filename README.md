@@ -1,16 +1,7 @@
-# Tarcísio Ayres
-
-## 👋 Olá, eu sou Tarcísio Ayres!
+# 🌎 Olá, Mundo! Me chamo Tarcísio Ayres!
 
 Sou estudante de técnico em informática no Senac e estou sempre buscando aprender mais sobre programação. Tenho experiência em projetos utilizando Angular, Ionic, PHP e a tríade da programação (JavaScript, CSS e HTML).
 
-## 💼 Experiência
-
-### [Nome da Empresa/Projeto] (Mês/Ano de Início - Mês/Ano de Término)
-- [Breve descrição do que você fez ou aprendeu durante esse período.]
-
-### [Outro Emprego/Projeto] (Mês/Ano de Início - Mês/Ano de Término)
-- [Outras realizações e experiências relevantes.]
 
 ## 🚀 Projetos Destacados
 
@@ -35,21 +26,20 @@ Sou estudante de técnico em informática no Senac e estou sempre buscando apren
 ## 📊 Estatísticas do GitHub
 
 <div>
-  <a href="https://github.com/tarcisioayres">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcisioayres&layout=compact&langs_count=6&hide=html,css" alt="Top Langs" />
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serya012&layout=compact&langs_count=6&hide=html,css" alt="Top Langs" />
   </a>
   
-  <a href="https://github.com/tarcisioayres">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=tarcisioayres&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=serya012&show_icons=true&theme=radical" alt="GitHub Stats" />
   </a>
 </div>
 
 ## 📫 Como Entrar em Contato
 
 - ✉️ [Seu endereço de e-mail]
-- [LinkedIn](seu-linkedin)
-- [Twitter](seu-twitter)
-- [Instagram](https://www.instagram.com/seu-instagram/)
+- [LinkedIn](https://www.linkedin.com/in/tarcisio-ayres012/)
+- [Instagram](https://www.instagram.com/serya.012/)
 
 ## 😄 Curiosidades
 
