@@ -37,7 +37,6 @@ Sou estudante de técnico em informática no Senac e estou sempre buscando apren
 
 ## 📫 Como Entrar em Contato
 
-- ✉️ [Seu endereço de e-mail]
 - [LinkedIn](https://www.linkedin.com/in/tarcisio-ayres012/)
 - [Instagram](https://www.instagram.com/serya.012/)
 
@@ -45,10 +44,6 @@ Sou estudante de técnico em informática no Senac e estou sempre buscando apren
 
 - 💻 Meu primeiro mergulho no 🌎 da programação aconteceu ao desenvolver bots para o Discord, marcando um ponto inicial significativo em minha trajetória. Este desafio inicial não apenas consolidou meu amor pelo código, mas também despertou meu interesse em criar soluções inovadoras.
 
-## 📝 Blog
-
-- [Se você escreve em um blog, adicione o link aqui.]
-
 ---
 
-Obrigado por conferir meu perfil! Sinta-se à vontade para entrar em contato ou explorar meus projetos. Estou sempre aberto a novas oportunidades e colaborações!
+Obrigado por conferir meu perfil! Sinta-se à vontade para entrar em contato ou explorar meus projetos. Estou sempre aberto a novas oportunidades e contribuições!
