@@ -18,7 +18,6 @@ Sou estudante de técnico em informática no Senac e estou sempre buscando apren
 ## 👨‍💻 Habilidades
 
 - **Linguagens de Programação:** JavaScript, TypeScript, Java, PHP, Python
-- **Tecnologias Web:** Angular, Ionic, HTML, CSS
 - **Banco de Dados:** MySQL, Firebase
 - **Ambientes de Desenvolvimento:** NetBeans, VSCode, Eclipse
 
