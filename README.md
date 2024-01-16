@@ -12,7 +12,7 @@ Sou estudante de técnico em informática no Senac e estou sempre buscando apren
 
 <div>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serya012&layout=compact&langs_count=10&hide=html,css" alt="Top Langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serya012&layout=compact&langs_count=10&hide=html,css&theme=cobalt" alt="Top Langs" />
   </a>
   <br>
   <a>
