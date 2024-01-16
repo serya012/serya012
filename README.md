@@ -12,13 +12,14 @@ Sou estudante de técnico em informática no Senac e estou sempre buscando apren
 
 <div>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serya012&layout=compact&langs_count=6&hide=html,css" alt="Top Langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serya012&layout=compact&langs_count=10&hide=html,css" alt="Top Langs" />
   </a>
-  
+  <br>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=serya012&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=serya012&show_icons=true&theme=cobalt" alt="GitHub Stats" />
   </a>
 </div>
+mudar acima
 
 ## 📫 Como Entrar em Contato
 
