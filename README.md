@@ -19,7 +19,6 @@ Sou estudante de técnico em informática no Senac e estou sempre buscando apren
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=serya012&show_icons=true&theme=cobalt" alt="GitHub Stats" />
   </a>
 </div>
-mudar acima
 
 ## 📫 Como Entrar em Contato
 
