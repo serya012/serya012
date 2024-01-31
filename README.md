@@ -27,7 +27,7 @@ Sou estudante de técnico em informática no Senac e estou sempre buscando apren
 
 ## 😄 Curiosidade
 
-- 💻 Meu primeiro mergulho no mundo da programação aconteceu ao fazer a manutenção de bots para o Discord, marcando um ponto inicial significativo em minha trajetória. Este desafio inicial não apenas consolidou meu amor pelo código, mas também despertou meu interesse em criar soluções inovadoras.
+Descobri a programação por acaso ao fazer a manutenção em bots para o Discord, marcando um ponto inicial significativo em minha trajetória. Este desafio inicial não apenas consolidou meu amor pelo código, mas também despertou meu interesse em criar soluções inovadoras.
 
 ---
 
