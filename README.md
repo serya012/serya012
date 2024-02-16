@@ -38,5 +38,5 @@ Obrigado por conferir meu perfil! Sinta-se à vontade para entrar em contato ou 
 
 Abaixo está o jogo da cobrinha que se move de acordo com os seus commits no GitHub:
 
-<iframe src="https://serya012.github.io/caminho-para-o-jogo/snake.html" width="400" height="400"></iframe>
+<iframe src="https://serya012.github.io/serya012/" width="400" height="400"></iframe>
 
