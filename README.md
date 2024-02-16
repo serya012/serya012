@@ -34,4 +34,9 @@ Descobri a programação por acaso ao fazer a manutenção em bots para o Discor
 Obrigado por conferir meu perfil! Sinta-se à vontade para entrar em contato ou explorar meus projetos. Estou sempre aberto a novas oportunidades e contribuições!
 
 
+## 🎮 Jogo da Cobrinha
+
+Abaixo está o jogo da cobrinha que se move de acordo com os seus commits no GitHub:
+
+<iframe src="https://serya012.github.io/caminho-para-o-jogo/snake.html" width="400" height="400"></iframe>
 
