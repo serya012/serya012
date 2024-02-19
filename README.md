@@ -20,7 +20,7 @@ Sou estudante de técnico em informática no Senac de Nova Iguaçu e estou sempr
   </a>
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/serya012/serya012/blob/output/github-contribution-grid-snake.svg)
 
 ## 😄 Curiosidade
 
