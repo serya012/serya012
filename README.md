@@ -20,6 +20,8 @@ Sou estudante de técnico em informática no Senac de Nova Iguaçu e estou sempr
   </a>
 </div>
 
+![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+
 ## 😄 Curiosidade
 
 Descobri a programação por acaso ao fazer a manutenção em bots para o Discord, marcando um ponto inicial significativo em minha trajetória. Este desafio inicial não apenas consolidou meu amor pelo código, mas também despertou meu interesse em criar soluções inovadoras.
