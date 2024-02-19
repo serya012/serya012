@@ -20,11 +20,6 @@ Sou estudante de técnico em informática no Senac de Nova Iguaçu e estou sempr
   </a>
 </div>
 
-## 📫 Como Entrar em Contato
-
-- [LinkedIn](https://www.linkedin.com/in/tarcisio-ayres012/)
-- [Instagram](https://www.instagram.com/serya.012/)
-
 ## 😄 Curiosidade
 
 Descobri a programação por acaso ao fazer a manutenção em bots para o Discord, marcando um ponto inicial significativo em minha trajetória. Este desafio inicial não apenas consolidou meu amor pelo código, mas também despertou meu interesse em criar soluções inovadoras.
