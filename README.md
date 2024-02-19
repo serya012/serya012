@@ -12,11 +12,12 @@ Sou estudante de técnico em informática no Senac de Nova Iguaçu e estou sempr
 
 <div>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serya012&layout=compact&langs_count=10&hide=html,css&theme=cobalt" alt="Top Langs" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serya012&layout=compact&langs_count=10&hide=scss&theme=cobalt" alt="Top Langs" />
   </a>
-  <br>
+</div>
+<div>
   <a>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=serya012&show_icons=true&theme=cobalt" alt="GitHub Stats" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=serya012&show_icons=true&theme=cobalt" alt="GitHub Stats" />
   </a>
 </div>
 
