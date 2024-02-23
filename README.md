@@ -1,6 +1,6 @@
 # 🌎 Olá, Mundo!
 
-Sou estudante de técnico em informática no Senac de Nova Iguaçu e estou sempre buscando aprender mais sobre programação.
+Sou Técnico em Informática e estou sempre buscando aprender mais sobre programação.
 ## 👨‍💻 Habilidades
 
 - **Linguagens:**
