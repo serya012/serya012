@@ -25,7 +25,7 @@ Sou Técnico em Informática e estou sempre buscando aprender mais sobre program
   </a>
 </div>
 
-![Snake animation](https://github.com/serya012/serya012/blob/output/github-contribution-grid-snake.sv)
+![Snake animation](https://github.com/serya012/serya012/blob/output/github-contribution-grid-snake.svg)
 
 ## 😄 Curiosidade
 
