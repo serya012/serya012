@@ -32,7 +32,7 @@ Sou Técnico em Informática e estou sempre buscando aprender mais sobre program
 ![Snake animation](https://github.com/serya012/serya012/blob/output/github-contribution-grid-snake.svg)
 
 ## 🤔 Curiosidade
-
+---
 Neu primeiro contato com a programação foi meio inesperado, quando me pediram para configurar alguns bots de um servidor no Discord. Foi um momento importante pra mim, porque ali tive meu primeiro contato com a programação, mesmo não sabendo o que era. No começo, foi bem difícil de entender como tudo aquilo funcionava, mas isso não me fez parar, esse desafio foi só mais uma etapa no mundo da programação. Logo percebi que cada obstáculo era uma chance de aprender e crescer. Decidi me dedicar aos estudos, buscando conhecimento em comunidades online e sempre procurando me aprimorar. Foi aí que descobri qual é a minha área: a Informática e a Programação, onde encontrei minha paixão e motivação para ter uma vida que sempre quis ter </>.
 ---
 
