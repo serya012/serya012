@@ -31,7 +31,7 @@ Sou Técnico em Informática e estou sempre buscando aprender mais sobre program
 
 ![Snake animation](https://github.com/serya012/serya012/blob/output/github-contribution-grid-snake.svg)
 
-## 😄 Curiosidade
+## 🤔 Curiosidade
 
 Descobri a programação por acaso ao fazer a manutenção em bots para o Discord, marcando um ponto inicial significativo em minha trajetória. Este desafio inicial não apenas consolidou meu amor pelo código, mas também despertou meu interesse em criar soluções inovadoras.
 
