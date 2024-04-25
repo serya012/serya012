@@ -33,7 +33,7 @@ Sou Técnico em Informática e estou sempre buscando aprender mais sobre program
 
 ## 🤔 Curiosidade
 
-Descobri a programação por acaso ao fazer a manutenção em bots para o Discord, marcando um ponto inicial significativo em minha trajetória. Este desafio inicial não apenas consolidou meu amor pelo código, mas também despertou meu interesse em criar soluções inovadoras.
+Neu primeiro contato com a programação foi meio inesperado, quando me pediram para configurar alguns bots de um servidor no Discord. Foi um momento importante pra mim, porque ali tive meu primeiro contato com a programação, mesmo não sabendo o que era. No começo, foi bem difícil de entender como tudo aquilo funcionava, mas isso não me fez parar, esse desafio como só mais uma etapa no mundo da programação. Logo percebi que cada obstáculo era uma chance de aprender e crescer. Decidi me dedicar aos estudos, buscando conhecimento em comunidades online e sempre procurando me aprimorar. Foi aí que descobri qual é a minha área: a Informática e a programação, onde encontrei minha paixão e motivação para ter uma vida melhor
 
 ---
 
