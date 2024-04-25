@@ -20,7 +20,7 @@ Sou Técnico em Informática e estou sempre buscando aprender mais sobre program
 
 <div>
   <a>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serya012&layout=compact&langs_count=10&hide=scss&theme=cobalt" alt="Top Langs" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=serya012&layout=compact&langs_count=15&hide=scss&theme=cobalt" alt="Top Langs" />
   </a>
 </div>
 <div>
