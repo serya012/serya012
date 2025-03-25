@@ -1,6 +1,6 @@
 # 🌎 Olá, Mundo!
 
-Sou Técnico em Informática e estou sempre buscando aprender mais sobre programação.
+Cursando Análise e Desenvolvimento de Sistemas.
 ## 👨‍💻 Habilidades
 
 - **Linguagens:**
