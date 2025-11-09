@@ -1,6 +1,7 @@
 # 🌎 Olá, Mundo!
 
 Cursando Análise e Desenvolvimento de Sistemas.
+
 ## 👨‍💻 Habilidades
 
 - **Linguagens:**
@@ -15,7 +16,6 @@ Cursando Análise e Desenvolvimento de Sistemas.
 -  ![NetBeans](https://img.shields.io/badge/NetBeans-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 -  ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white) ![Intelij](https://img.shields.io/badge/IntelliJ-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-
 ## 📊 Estatísticas do GitHub
 
 <div>
@@ -29,13 +29,18 @@ Cursando Análise e Desenvolvimento de Sistemas.
   </a>
 </div>
 
-![Snake animation](https://github.com/serya012/serya012/blob/output/github-contribution-grid-snake.svg)
+<br><br><br><br><br><br><br><br>
+
+## 🐍 Minhas Contribuições
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/serya012/serya012/blob/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/serya012/serya012/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://github.com/serya012/serya012/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 ## 🤔 Curiosidade 
 
 Meu primeiro contato com a programação foi meio inesperado, quando me pediram para configurar alguns bots de um servidor no Discord. Foi um momento importante pra mim, porque ali tive meu primeiro contato com a programação, mesmo não sabendo o que era. No começo, foi bem difícil de entender como tudo aquilo funcionava, mas isso não me fez parar, esse desafio foi só mais uma etapa no mundo da programação. Logo percebi que cada obstáculo era uma chance de aprender e crescer. Decidi me dedicar aos estudos, buscando conhecimento em comunidades online e sempre procurando me aprimorar. Foi aí que descobri qual é a minha área: a Informática e a Programação, onde encontrei minha paixão e motivação para ter uma vida que sempre quis **</>**.
 
-
 Obrigado por conferir meu perfil! Sinta-se à vontade para entrar em contato pelo Instagram, LinkedIn ou explorar meus projetos, fique à vontade. Estou sempre aberto a novas oportunidades e contribuições😜!
-
-
