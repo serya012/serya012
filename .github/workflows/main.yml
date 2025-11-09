@@ -1,19 +1,17 @@
 # GitHub Action for generating a contribution graph with a snake eating your contributions.
 
-# ![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
-
 name: Generate Snake
 
 # Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
-    - cron: "0 */12 * * *"
+    # Runs every day at midnight UTC
+    - cron: "0 0 * * *"
 
   # This command allows us to run the Action automatically from the Actions tab.
   workflow_dispatch:
   
-  # Also run on every push on the master branch
+  # Also run on every push on the main branch
   push:
     branches:
     - main
@@ -30,27 +28,26 @@ jobs:
       - name: Clone repo
         uses: actions/checkout@v3
     
-      - name: Generate the snake files in './dist/'
+      - name: Generate the snake files
         uses: Platane/snk@v3
-        id: snake-gif
         with:
+          # github user name to read the contribution graph from (**required**)
           github_user_name: ${{ github.repository_owner }}
-          # Configuração para modo escuro - fundo escuro
-          gif_background: "#0D1117"  # Cor de fundo escura (similar ao GitHub Dark)
-          outputs: |     
-            dist/github-contribution-grid-snake.gif
+          
+          # Files to generate with dark palette
+          outputs: |
             dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif
+            dist/github-contribution-grid-snake-dark.gif?palette=github-dark
         env:
-           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Show build status
-        run: git status
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Push new files to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
-          commit_message: Update snake animations
+          commit_message: "Update snake animation - $(date)"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
