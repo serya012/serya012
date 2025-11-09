@@ -35,6 +35,8 @@ jobs:
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
+          # Configuração para modo escuro - fundo escuro
+          gif_background: "#0D1117"  # Cor de fundo escura (similar ao GitHub Dark)
           outputs: |     
             dist/github-contribution-grid-snake.gif
             dist/github-contribution-grid-snake.svg
